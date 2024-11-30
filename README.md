@@ -1,9 +1,15 @@
 Assalamualaikum
-interest: "Astronomy", "History", "Quran", "Hadith"
+
+##interest:
+"Astronomy", "History", "Quran", "Hadith"
 
 <p/>
 ## My handles :
- [<img src="https://img.shields.io/badge/LinkedIn-211e1b?style=for-the-badge&logo=LINKEDIN&logoColor=8a2be2">](https://www.linkedin.com/in/nairobi-nusrat/)
- [<img src="https://img.shields.io/badge/CodeForces-211e1b?style=for-the-badge&logo=stackoverflow&logoColor=8a2be2">](https://codeforces.com/profile/Rub_y) 
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/7/7d/LinkedIn_logo_initials.svg)](https://www.linkedin.com/in/your-profile/)
+
+ 
+ [![Codeforces](https://upload.wikimedia.org/wikipedia/commons/6/64/Codeforces_logo_2021.svg)](https://codeforces.com/profile/your-username)
+
 
 
