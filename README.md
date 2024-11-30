@@ -1,16 +1,64 @@
-## Hi there 👋
+```python
+from dataclasses import dataclass
+@dataclass
+class Appledora:
+    research: list[str] = ["CL", "CV", "XAI" ]
+    interest: list[str] = ["Astrophysics","LifeScience","Literature","Popculture"]
+    welcome: list[str] = ["Collaboration", "Competitions"]
+    funfact: str = None
+```
 
-<!--
-**nairobi-J/nairobi-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently a student Of Software Engineering
-- 🌱 I’m currently learning Vuejs, vuetify, postgress
+## My stacks :four_leaf_clover:
+<img src="https://img.shields.io/badge/ML-8a2be2?style=for-the-badge&logo=testing-library&logoColor=FFFFFF">![badge-pytorch](https://img.shields.io/badge/pytorch-211e1b?style=for-the-badge&logo=pytorch&logoColor=8a2be2&labelColor=211e1b)![badge-opencv](https://img.shields.io/badge/OpenCV-211e1b?style=for-the-badge&logo=opencv&logoColor=8a2be2&labelColor=211e1b)![badge-pyspark](https://img.shields.io/badge/PySpark-211e1b?style=for-the-badge&logo=apache-spark&logoColor=8a2be2&labelColor=211e1b) <br/>
+<img src="https://img.shields.io/badge/Languages-8a2be2?style=for-the-badge&logo=shell&logoColor=FFFFFF">![badge-python](https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=8a2be2&labelColor=211e1b)![badge-sparql](https://img.shields.io/badge/SPARQL-211e1b?style=for-the-badge&logo=graphql&logoColor=8a2be2&labelColor=211e1b)![badge-java](https://img.shields.io/badge/java-211e1b?style=for-the-badge&logo=oracle&logoColor=8a2be2&labelColor=211e1b)![badge-shell](https://img.shields.io/badge/Shell-211e1b?style=for-the-badge&logo=gnu-bash&logoColor=8a2be2&labelColor=211e1b)![badge-js](https://img.shields.io/badge/JScript-211e1b?style=for-the-badge&logo=javascript&logoColor=8a2be2&labelColor=211e1b)![badge-cpp](https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=8a2be2&labelColor=211e1b) <br/>
+<img src="https://img.shields.io/badge/Frameworks-8a2be2?style=for-the-badge&logo=IPFS&logoColor=FFFFFF">![badge-android](https://img.shields.io/badge/android-211e1b?style=for-the-badge&logo=android&logoColor=8a2be2&labelColor=211e1b)![badge-react](https://img.shields.io/badge/react-211e1b?style=for-the-badge&logo=react&logoColor=8a2be2&labelColor=211e1b)![badge-django](https://img.shields.io/badge/django-211e1b?style=for-the-badge&logo=django&logoColor=8a2be2&labelColor=211e1b) <br/>
+<img src="https://img.shields.io/badge/Database-8a2be2?style=for-the-badge&logo=databricks&logoColor=FFFFFF">![badge-mysql](https://img.shields.io/badge/mysql-211e1b?style=for-the-badge&logo=mysql&logoColor=8a2be2&labelColor=211e1b)![badge-firebase](https://img.shields.io/badge/firebase-211e1b?style=for-the-badge&logo=firebase&logoColor=8a2be2&labelColor=211e1b)
 
-<!--- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+
+
+## My stats  :hatched_chick:
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 08 December 2023 - To: 15 December 2023
+
+Python   47 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+```
+
+<!--END_SECTION:waka-->
+
+<p align = "center">
+<img height="200" src="https://github-profile-trophy.vercel.app/?username=appledora&theme=tokyonight&no-frame=true&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers,PullRequest,Issues"/>
+<!--    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appledora&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a> -->
+<p/>
+<!--- dracula base : #282a36 font : #ff79c6 -->
+<!-- <p align="left">
+<img  height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appledora&hide=html,makefile,css&bg_color=211e1b&title_color=79740e&text_color=83a598&count_private=true&langs_count=5" />
+<img  height= "200"src="https://github-readme-stats.vercel.app/api?username=appledora&bg_color=211e1b&title_color=79740e&text_color=83a598&show_icons=true&icon_color=fabd2f&count_private=true" />
+</p> -->
+<p align=left>
+      <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=appledora&theme=tokyonight&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img  width=400 src="https://github-readme-stats.vercel.app/api?username=appledora&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+  <br><br><br>
+  <!--<img src="https://activity-graph.herokuapp.com/graph?username=appledora&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/> -->
+</p> 
+
+## My recent projects :blossom:
+* [mwtokenizer](https://pypi.org/project/mwtokenizer/) : a language-agnostic sentence-word tokenizer.
+* [mwparserfromhtml](https://pypi.org/project/mwparserfromhtml/) : a python library to parse and process wikipedia html-dumps. 
+
+
+## My handles :jack_o_lantern:
+ [<img src="https://img.shields.io/badge/LinkedIn-211e1b?style=for-the-badge&logo=LINKEDIN&logoColor=8a2be2">](https://www.linkedin.com/in/nazia-tasnim-3b377a190/)  [<img src="https://img.shields.io/badge/StackOverflow-211e1b?style=for-the-badge&logo=stackoverflow&logoColor=8a2be2">](https://stackoverflow.com/users/https://stackoverflow.com/users/11551168/appledora) 
+ [<img src="https://img.shields.io/badge/🤗huggingface-211e1b?style=for-the-badge&logo=huggingface&logoColor=8a2be2">](https://huggingface.co/appledora)
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/appledora/count.svg" />
+</p>
 
