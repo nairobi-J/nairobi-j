@@ -3,7 +3,7 @@ Assalamualaikum
 ##interest:
 "Astronomy", "History", "Quran", "Hadith"
 
-<p/>
+
 ## My handles :
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/7/7d/LinkedIn_logo_initials.svg)](https://www.linkedin.com/in/nairobi-nusrat/)
