@@ -1,6 +1,6 @@
-Assalamualaikum
+# Assalamualaikum
 
-## interest :
+## Interest :
 "Astronomy", "History", "Quran", "Hadith"
 
 
@@ -10,6 +10,7 @@ Assalamualaikum
 
  
  [![Codeforces](https://upload.wikimedia.org/wikipedia/commons/6/64/Codeforces_logo_2021.svg)](https://codeforces.com/profile/rub_y/)
-
+  ## CurrenlyLearning :
+  ReactJs, VueJs, Veutify, JavaScript,Java, SQL, SQlite, MongoDb, NodeJs, C, C++. 
 
 
