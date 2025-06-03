@@ -1,6 +1,6 @@
 # Assalamualaikum 
 ## Interest: 
-Quran, Hadith, Debate, Astronomy, Geo-Politics, History
+LLM, ML, FL, Cyber Security, HCI
 
 
 ## Connections:
