@@ -1,45 +1,140 @@
-# Assalamualaikum 
-## Interest: 
-LLM, ML, FL, Cyber Security, HCI
+<div>
+  <p aligh='center'>
+  <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamoycTZlbHZ3NjU3dWx3cHZkdG9pNzE2emtveHg1c2xsNDJ4bGhwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GISoZGkcy57H2/giphy.gif" width="400px" height="250px">
+ </p>
+</div>
 
 
-## Connections:
-<a href="https://www.linkedin.com/in/nairobi-nusrat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/striking_slow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Rub_y" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg"  height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/jerinusrat001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg"  height="30" width="40" /></a>
-<a href="https://leetcode.com/u/striking_Hard/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg"  height="30" width="40" /></a>
 
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
+
+
+
+
  
- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://nextjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="scss" width="40" height="40"/></a>
-    <a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="medusajs" width="40" height="40"/></a>
-     <a href="https://flask.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="medusajs" width="40" height="40"/></a>
-      <a href="https://azure.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="medusajs" width="40" height="40"/></a>
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> 
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-<a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg" alt="vuetify" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwindcss" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-</a>
-<a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="scss" width="40" height="40"/></a>
+<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Nusrat Jahan Jerin </h1>
 
+
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=nairobi-j&label=Profile%20views&color=0e75b6&style=flat" alt="nairobi-j" /> <br>
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/nairobi-j"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/nairobi-j">
+<img src="https://github-readme-stats.vercel.app/api?username=nairobi-j&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=green"  width="45%" alt="stats graph"  bg="white"/>
 </p>
 
+ <!-- Profile Views - Waka Time Stats - Followers & Stars -->
+
+ <!-- Github Readme Stats -->
+<p align='center'>
+
+</p>
+ <!-- Github Readme Stats -->
+
+ <!-- Waka Time in Depth Stats -->
+
+  <!-- Waka Time in Depth Stats -->
+
+  <!-- Github Profile Summary Cards -->
+<p align="center">
+  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nairobi-j&theme=vue" />
+  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nairobi-j&theme=vue" />
+</p>
+
+  <!-- Github Profile Summary Cards -->
+
+<!-- Contact Section -->
+
+<div align="center">
+
+##  Connect via
+
+<p align="center">
+<a href="mailto:jerinusrat001@gmail.com?subject=Want%20to%20contact%20you%20from%20github"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/></a>
+<a href="https://www.linkedin.com/in/nairobi-nusrat/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
+
+<a href="https://codeforces.com/profile/Rub_y" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="linktree logo"  /></a>
+<a href="https://leetcode.com/striking_hard/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  /></a>
+</p>
+
+</div>
+
+
+
+
+
+
+ <!-- About Me -->
+<p align='left'>
+- 🔭 <b>A Software Engineering</b> Undergrad from <b>SUST</b><br>
+<!-- - 🌱 I’m currently exploring in depth full stack webdevelopment 😁<br>
+- ✨ Maintaining a Newsletter & Youtube Channel : Learn & Code <br>
+- 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
+- 🥅 <i><b>2025 Goals</b></i>: Switch to a new Tech Language <br>
+- ⚡ Interests : How chatgpt going to take my job !😏<br> -->
+</p>
+
+
+## 🛠️ Tech Stack
+
+#### 💻 Programming Languages
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🌐 Frontend Development
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### ⚙️ Backend Development
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+#### 🗄️ Databases
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### ☁️ DevOps & Cloud
+- ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### 🔧 Tools & Testing
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 📊 GitHub Stats
+
+
+
+<!-- Skill Section -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Contribution Stack -->
+<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
+
+<!-- Contribution Statistics and Visuals -->
+<p align="center">
+<img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRvbmxlbjI2d3RrcDZ5aDZ3bjhzNTBhdWpibDlpMXo0aWQ2Z2J3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gDtIz79gmhCo/giphy.gif" width="120px" height="150px">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nairobi-j&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ4MHBkdHQxZWhhNTdtOHF6bnp0YmpnM3lvdHdlNTFpdWtxODZtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ramBbsu5kGc8AJHd1h/giphy.gif" width="120px" height="150px">
+</p>
+<!-- Contribution Statistics and Visuals -->
+
+<!-- Activity Graph -->
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=nairobi-j&theme=tokyo-day)
+
+<!-- Activity Graph -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
