@@ -1,58 +1,21 @@
-<div>
-  <p aligh='center'>
+
+
+
+## SALAM , I am Nusrat Jahan Jerin ,An Undergrad Software Engineering Student from SUST
+
+
+<div align="center">
   <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamoycTZlbHZ3NjU3dWx3cHZkdG9pNzE2emtveHg1c2xsNDJ4bGhwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GISoZGkcy57H2/giphy.gif" width="400px" height="250px">
- </p>
 </div>
 
 
-
-
-
-
-
-
-
- 
-<h1 align="center">Hi <img src ="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="32" >, I am Nusrat Jahan Jerin </h1>
-
-
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=nairobi-j&label=Profile%20views&color=0e75b6&style=flat" alt="nairobi-j" /> <br>
-
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/nairobi-j"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/nairobi-j">
-<img src="https://github-readme-stats.vercel.app/api?username=nairobi-j&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=green"  width="45%" alt="stats graph"  bg="white"/>
-</p>
-
- <!-- Profile Views - Waka Time Stats - Followers & Stars -->
-
- <!-- Github Readme Stats -->
-<p align='center'>
-
-</p>
- <!-- Github Readme Stats -->
-
- <!-- Waka Time in Depth Stats -->
-
-  <!-- Waka Time in Depth Stats -->
-
-  <!-- Github Profile Summary Cards -->
-<p align="center">
-  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nairobi-j&theme=vue" />
-  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nairobi-j&theme=vue" />
-</p>
-
-  <!-- Github Profile Summary Cards -->
-
-<!-- Contact Section -->
-
 <div align="center">
-
-##  Connect via
+  
+ ## Connect via
 
 <p align="center">
 <a href="mailto:jerinusrat001@gmail.com?subject=Want%20to%20contact%20you%20from%20github"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/></a>
 <a href="https://www.linkedin.com/in/nairobi-nusrat/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
-
 <a href="https://codeforces.com/profile/Rub_y" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="linktree logo"  /></a>
 <a href="https://leetcode.com/striking_hard/" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="42" height="30" alt="linktree logo"  /></a>
 </p>
@@ -60,19 +23,6 @@
 </div>
 
 
-
-
-
-
- <!-- About Me -->
-<p align='left'>
-- 🔭 <b>A Software Engineering</b> Undergrad from <b>SUST</b><br>
-<!-- - 🌱 I’m currently exploring in depth full stack webdevelopment 😁<br>
-- ✨ Maintaining a Newsletter & Youtube Channel : Learn & Code <br>
-- 👯 Learning & Contributing to <b>Open Source Project</b> 😃<br>
-- 🥅 <i><b>2025 Goals</b></i>: Switch to a new Tech Language <br>
-- ⚡ Interests : How chatgpt going to take my job !😏<br> -->
-</p>
 
 
 ## 🛠️ Tech Stack
@@ -112,21 +62,15 @@
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats
-
-
-
-<!-- Skill Section -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Contribution Stack -->
-<h1 align="center"><b><i><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">Contribution Stack ✌️</i></b> </h1>
-
 <!-- Contribution Statistics and Visuals -->
 <p align="center">
 <img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRvbmxlbjI2d3RrcDZ5aDZ3bjhzNTBhdWpibDlpMXo0aWQ2Z2J3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gDtIz79gmhCo/giphy.gif" width="120px" height="150px">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nairobi-j&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=530&card_height=210" />
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ4MHBkdHQxZWhhNTdtOHF6bnp0YmpnM3lvdHdlNTFpdWtxODZtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ramBbsu5kGc8AJHd1h/giphy.gif" width="120px" height="150px">
+  
+  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nairobi-j&theme=vue" />
+  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nairobi-j&theme=vue" />
+
 </p>
 <!-- Contribution Statistics and Visuals -->
 
